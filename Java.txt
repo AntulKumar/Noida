@@ -1,0 +1,40 @@
+Q 1) What is JAVA?
+Ans:-   Java is a platform independent, object oriented programming language.
+
+Q 2) What is Java features or Java Buzz words?
+Ans:-  There are several features of Java like:-
+	1. Simple
+	2. Open Source
+	3. Object Oriented
+	4. Platform Independent
+	5. Secured
+	6. Supports all OOPS Concept
+	7. Portable
+	8. Supports Multithreading
+	9. Dymanic Memory Management
+
+Q 3) What is JDK, JRE, JVM, JIT ?
+Ans:-  JDK(Java Developement Kit) :-
+	1. JDK is used to develop a java program.
+	2. JDK includes JRE, an interpreter, a compiler and many more tools of Java developement.
+
+          JRE(Java Runtime Environment) :-
+	1. JRE is used to run a java program.
+	2. JRE is a part of JDK and it combines the JVM, platform core classes and supporting libraries.
+
+          JVM(Java Virtual Machine) :-
+	1. JVM handles the program execution and provides memory and manages.
+	2. JVM interpretes the compiled java code known as the bytecode and helps in the program execution.
+
+          JIT(Just In Time Compiler) :-
+	1. When JIT was introduced then it takes all the code together and compiles it. Before JIT the code was compiled line by line.
+	2. The JIT compiler compiles the bytecode of that method into native machine code.
+
+Q 4) What is difference between print and println?
+Ans:-  When we use the print keyword the cursor is pointed where the statement ends.
+	For eg :-     System.out.print("HELLO);
+		  O/P :- HELLO|
+            But when we use the println keyword the cursor is pointed to the starting of the next line.
+	For eg :-	System.out.println("HELLO");
+		O/P :-  HELLO
+		           |
